@@ -1,14 +1,12 @@
 ---
 layout: post
 title:      "Web of Wonder"
-date:       2020-01-14 01:04:15 +0000
+date:       2020-01-13 20:04:16 -0500
 permalink:  web_of_wonder
 ---
 
 
 I get asked this question a lot: what made you decide on coding?
-
-![(https://images.app.goo.gl/NzuTGV8FCRJDnKZL8)]
 
 The short answer? I like to be challenged, and I consider myself a lifelong learner. While growing up, I watched my father enjoy his career working at MCI as a software engineer. I always thought computers were fascinating, and often I ended up as the family IT support. I say that lovingly, of course, and I enjoyed helping out wherever I could.
 
