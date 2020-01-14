@@ -8,6 +8,8 @@ permalink:  web_of_wonder
 
 I get asked this question a lot: what made you decide on coding?
 
+![](https://selecthealth.org/-/media/selecthealth82/article/post/2017/1/glasses_blog_lg.ashx)
+
 The short answer? I like to be challenged, and I consider myself a lifelong learner. While growing up, I watched my father enjoy his career working at MCI as a software engineer. I always thought computers were fascinating, and often I ended up as the family IT support. I say that lovingly, of course, and I enjoyed helping out wherever I could.
 
 I moved to a different city and started working after I graduated with my bachelors degree. I originally thought I wanted to become an attorney, but after talking to some folks who work in the legal field, I realized that often they lacked a work-life balance depending on where they were in their careers. I knew that becoming a lawyer wasn't for me then and there. To be frank, I really value my free time. I think that goes without saying.
