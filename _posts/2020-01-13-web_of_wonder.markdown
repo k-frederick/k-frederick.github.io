@@ -6,9 +6,9 @@ permalink:  web_of_wonder
 ---
 
 
-I get asked this question a lot: what made you decide on coding?
-
 ![](https://selecthealth.org/-/media/selecthealth82/article/post/2017/1/glasses_blog_lg.ashx)
+
+I get asked this question a lot: what made you decide on coding?
 
 The short answer? I like to be challenged, and I consider myself a lifelong learner. While growing up, I watched my father enjoy his career working at MCI as a software engineer. I always thought computers were fascinating, and often I ended up as the family IT support. I say that lovingly, of course, and I enjoyed helping out wherever I could.
 
