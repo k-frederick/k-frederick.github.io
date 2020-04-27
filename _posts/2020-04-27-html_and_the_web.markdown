@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "HTML and the Web"
-date:       2020-04-27 16:15:00 +0000
+date:       2020-04-27 12:15:01 -0400
 permalink:  html_and_the_web
 ---
 
